@@ -1,0 +1,2 @@
+vision_publisher
+-DCATKIN_DEVEL_PREFIX=/home/gunjan/catkin_ws/devel -DCMAKE_INSTALL_PREFIX=/home/gunjan/catkin_ws/install -G Unix Makefiles

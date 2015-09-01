@@ -1,0 +1,8 @@
+prefix=/home/gunjan/catkin_ws/devel
+
+Name: vision_publisher
+Description: Description of vision_publisher
+Version: 0.0.0
+Cflags: 
+Libs: -L/home/gunjan/catkin_ws/devel/lib 
+Requires: 
